@@ -3,6 +3,6 @@ RENCANA CONTENT WPU
 1. Videotron
 2. VISAT
 3. PHP MVC
-4. Vlogs
 5. Detail
 6. Materi
+7. Laracast
