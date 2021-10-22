@@ -5,4 +5,7 @@ RENCANA CONTENT WPU
 3. PHP MVC
 5. Detail
 6. Materi
-7. Laracast
+    * laravel
+    * WP
+    * ReactJS
+7. Holiday
