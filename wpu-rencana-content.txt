@@ -8,4 +8,5 @@ RENCANA CONTENT WPU
 6. Materi
     * laravel
     * WP
+    * ReactJS
 7. Holiday
